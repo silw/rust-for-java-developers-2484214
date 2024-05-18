@@ -101,4 +101,5 @@ fn main() {
     let csv = parse_csv(data); // TODO: fix
 
     println!("{:#?}", generate_report(&csv));
+    //test
 }
